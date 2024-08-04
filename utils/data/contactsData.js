@@ -1,7 +1,7 @@
 export const contactsData = {
     email: 'prasanth76200@gmail.com',
     phone: '+91 9952148197',
-    address: 'Chennai',
+    address: 'Pondicherry,Chennai',
     github: 'https://github.com/prasanth76200',
     // facebook: '',
     linkedIn: 'https://www.linkedin.com/in/followprasanth/',
