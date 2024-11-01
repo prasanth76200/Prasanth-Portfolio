@@ -6,10 +6,12 @@ import travel from '/public/image/travel.jpg';
 export const projectsData = [
     {
         id: 1,
-        name: 'ORDER-SERVICE-MANAGEMENT',
-        description:` "Spearheaded the design and implementation of microservice architecture for an Order-Service Management system, leveraging Product, Order, Inventory, and Message services to enhance scalability and maintainability.
- Implemented microservice architecture resulting in a 300% increase in system scalability, accommodating rapid business growth and fluctuations in demand without compromising performance"`,
-        tools: ["Java","Spring Boot", "MySQL","MongoDB","Jakarta Persistence","Eureka","Zipikin","Docker"],
+        name: 'LinktoSync.com (Work in Progress)',
+        description:` "Building a social media management platform that integrates with 5+ major platforms (Twitter, Facebook, Instagram,
+LinkedIn), designed to enhance content management efficiency and user engagement.
+Developing features to support 3x faster content posting and scheduling, aiming to significantly improve productivity
+for social media managers across multiple platforms"`,
+        tools: ["Java","Spring Boot", "PostgreSQL","Jakarta Persistence","Docker"],
         role: 'Backend Developer',
         code: '',
         demo: '',
@@ -17,9 +19,12 @@ export const projectsData = [
     },
     {
         id: 2,
-        name: 'Car-Rental-Booking',
-        description: 'Users can create accounts and log in securely to access the booking system. The application integrates payment processing functionality, allowing users to make secure payments for their bookings online. Users receive notifications regarding booking confirmations updates via email.',
-        tools: ["Java","Spring Boot","Eureka", "MySQL","Jakarta Persistence"],
+        name: 'Custom Reverse Proxy (for LinktoSync.com)',
+        description: `'Engineered a reverse proxy server from scratch, optimizing traffic flow between client requests and backend services to
+improve efficiency and security.
+Implemented tailored rate limiting strategies to protect against overUse and DoS attacks, and added basic caching
+mechanisms which led to a 30% improvement in response time and a 20% reduction in server load'`,
+        tools: ["Node.js", "Docker", "node-cache"],
         role: 'Full Stack Developer',
         code: '',
         demo: '',
