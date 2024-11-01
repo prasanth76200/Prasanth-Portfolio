@@ -123,6 +123,8 @@ function HeroSection() {
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">MySQL</span>
                 <span className="text-gray-400">{"', '"}</span>
+                 <span className="text-amber-300">PostgreSQL</span>
+                <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Spring Boot MVC</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Swagger</span>
@@ -135,15 +137,11 @@ function HeroSection() {
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Docker</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Kubernetes</span>
-                <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Kafka</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Eurkea</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Zipkin</span>
-                <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Keycloak</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Linux</span>
                 <span className="text-gray-400">{"', '"}</span>
